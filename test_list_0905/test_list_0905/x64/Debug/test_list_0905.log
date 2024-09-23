@@ -1,2 +1,5 @@
-﻿  test.c
-  test_list_0905.vcxproj -> D:\code\vs2022\test_list_0905\x64\Debug\test_list_0905.exe
+﻿  List.c
+  test2.c
+  正在生成代码...
+D:\code\vs2022\data-structures-and-algorithms\test_list_0905\test_list_0905\List.c(109): warning C4716: “ListDestroy”: 必须返回一个值
+  test_list_0905.vcxproj -> D:\code\vs2022\data-structures-and-algorithms\test_list_0905\x64\Debug\test_list_0905.exe
